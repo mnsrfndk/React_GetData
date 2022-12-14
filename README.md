@@ -123,7 +123,7 @@
       'doloribus qui repudiandae\n' +
       'vero nisi sit\n' +
       'quos veniam quod sed accusamus veritatis error'
-  }
+  }]
   
 {
   id: 2,
@@ -234,5 +234,5 @@
       'suscipit porro ipsam amet\n' +
       'eos veritatis officiis exercitationem vel fugit aut necessitatibus totam\n' +
       'omnis rerum consequatur expedita quidem cumque explicabo'
-  }
+  }]
 ```
