@@ -124,8 +124,7 @@
       'vero nisi sit\n' +
       'quos veniam quod sed accusamus veritatis error'
   }
-]
-PS C:\Users\msami\Documents\Sites\React_First_Assignment> node app.js
+  
 {
   id: 2,
   name: 'Ervin Howell',
